@@ -8,7 +8,7 @@ import HeaderParagraph from '../HeaderComponents/HeaderContent';
 
 const HeaderContainer = () => {
     return (
-        <div>
+        <div className='HeaderBox'>
             <Thumbimg />
             <MyTitle />
             <HeaderParagraph />
