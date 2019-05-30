@@ -1,0 +1,12 @@
+.displayTotal {
+    height: 100px;
+    width: 400px;
+    background: black;
+    font-size: 50px;
+    color: white;
+    text-align: right;
+    line-height: 100px;
+    padding: 5px;
+}
+
+  

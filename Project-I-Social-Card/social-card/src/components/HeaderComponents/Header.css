@@ -1,1 +1,18 @@
 /* All styles for your header Components live here */
+
+.HeaderBox {
+    display: flex;
+    flex-flow: row wrap;
+    height: 45%;
+    max-width: 100%;
+    width: 650px;
+}
+
+.logobox {
+    width: 50px;
+}
+
+.lambdalogo {
+    max-width: 100%;
+    width: 
+}
